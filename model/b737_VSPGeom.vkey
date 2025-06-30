@@ -1,0 +1,22 @@
+# VSPGEOM Tag Key File
+C:/Users/George/Desktop/Aerospace/b737_new/model/b737_VSPGeom.vspgeom
+17
+
+# tag#,geom#,surf#,gname,gid,ssname1,ssname2,...,ssid1,ssid2,...
+1,0,0,Fuselage_S,YBXUZANQVN
+2,2,0,Wing_S,OOEADXTQQI
+3,2,1,Wing_S,OOEADXTQQI
+4,1,0,Horizontal_Tail_S,XHJNEOAZFU
+5,1,1,Horizontal_Tail_S,XHJNEOAZFU
+6,3,0,Vertical_Tail_S,LKTIJEMDEE
+7,4,0,BORGeom_S,GJFPLTJFQG
+8,4,1,BORGeom_S,GJFPLTJFQG
+9,2,0,Wing_S,OOEADXTQQI,Aileron,GMFJHMNZXO
+10,2,0,Wing_S,OOEADXTQQI,Flaps,VYDKGYATVC
+11,2,0,Wing_S,OOEADXTQQI,Slats,PGOLJFJGYM
+12,2,1,Wing_S,OOEADXTQQI,Aileron,GMFJHMNZXO
+13,2,1,Wing_S,OOEADXTQQI,Flaps,VYDKGYATVC
+14,2,1,Wing_S,OOEADXTQQI,Slats,PGOLJFJGYM
+15,1,0,Horizontal_Tail_S,XHJNEOAZFU,Elevators,RSBTXGPINH
+16,1,1,Horizontal_Tail_S,XHJNEOAZFU,Elevators,RSBTXGPINH
+17,3,0,Vertical_Tail_S,LKTIJEMDEE,Rudder,UJMCDGEGDV

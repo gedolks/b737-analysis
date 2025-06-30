@@ -1,0 +1,12 @@
+# VSP Tag Key File
+C:/Users/George/Desktop/Aerospace/b737_new/model/wing.dat
+8
+
+1,Wing_S_Surf0
+2,Wing_S_Surf1
+3,Wing_S_Surf0,Aileron
+4,Wing_S_Surf0,Flaps
+5,Wing_S_Surf0,Slats
+6,Wing_S_Surf1,Aileron
+7,Wing_S_Surf1,Flaps
+8,Wing_S_Surf1,Slats
